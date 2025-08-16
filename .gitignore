@@ -1,0 +1,21 @@
+# Fichiers sensibles
+client_secret.json
+accounts.txt
+proxies.txt
+
+# Logs et outputs
+error_log.txt
+output.log
+output.txt
+
+# Vidéos
+/videos/*.mp4
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+venv/
+.env
